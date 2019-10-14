@@ -1,0 +1,7 @@
+{
+    "tag": "3.0-alpine",
+    "args": [
+        "BASE_TAG=3.0-alpine",
+        "DOCKERIZE_VERSION=v0.6.1"
+    ]
+}
